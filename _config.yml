@@ -1,0 +1,23 @@
+name: Peak Performance Systems
+favicon: null
+layout_spectrum: 0.5758227589540184
+typography_spectrum: 0.3169311280362308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03642957587726414
+  lightness: 0.7347685266286135
+  saturation: 0.8786959841381758
+  rhythmicContrast: 0.6899716942571104
+purpose: []
