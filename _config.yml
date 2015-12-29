@@ -1,6 +1,6 @@
 name: Peak Performance Systems
 favicon: null
-layout_spectrum: 0.5758227589540184
+layout_spectrum: 0.9975
 typography_spectrum: 0.3169311280362308
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#2d3033'
+    - '#d3830d'
+    - '#858689'
+    - '#99532b'
   brandStrength: 0.03642957587726414
   lightness: 0.7347685266286135
   saturation: 0.8786959841381758
